@@ -8,6 +8,7 @@ public class Login {
 
     public String login()
     {
+        String message = "Hi I am here";
         return "Success";
     }
 }
